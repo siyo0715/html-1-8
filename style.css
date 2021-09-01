@@ -169,6 +169,29 @@
     margin-bottom: 10px;
   }
   
+  .instagram-box:nth-child(1) {
+    background-image: url(airport.jpg);
+  }
+  
+  .instagram-box:nth-child(2) {
+    background-image: url(japan.jpg);
+  }
+  
+  .instagram-box:nth-child(3) {
+    background-image: url(snow.jpg);
+  }
+  
+  .instagram-box:nth-child(4) {
+    background-image: url(japan2.jpg);
+  }
+  
+  .instagram-box:nth-child(5) {
+    background-image: url(lake.jpg);
+  }
+  
+  .instagram-box:nth-child(6) {
+    background-image: url(road.jpg);
+  }
   
   
   footer {
